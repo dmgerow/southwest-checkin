@@ -57,6 +57,8 @@ gem 'newrelic_rpm'
 # Pagination
 gem 'kaminari'
 
+gem 'informant-rails'
+
 # syslog logging with lograge
 # gem 'syslogger', '~> 1.6.0'
 # gem 'lograge', '~> 0.3.1'
